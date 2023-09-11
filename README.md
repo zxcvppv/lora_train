@@ -1,2 +1,2 @@
 # lora_train
-for lora
+个人备用
